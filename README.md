@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yuriykrivenko
+- 👀 I’m interested in Game design
+- 🌱 I’m currently learning Unity 3D
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me krivenko.yuriy@gmail.com
